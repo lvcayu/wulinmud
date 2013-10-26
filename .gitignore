@@ -1,0 +1,5 @@
+./bettermud
+*.o
+*.dsp
+*.dsw
+*.sln
